@@ -1,5 +1,5 @@
 # iBMiX2
-## Школа Я.Облако и Феникс, учавствовал на треке iBMiX. 
-## Стек Java + Spring, MySQL, Docker. 
-## К сожалению проект под NDA((
+## Школа CTO от Yandex.Cloud и Phoenix трек iBMiX.
+## Стек Java + Spring, MySQL, Docker.
+## Сам проект под NDA
 ## Сертификат прилагаю
